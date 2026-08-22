@@ -1,4 +1,0 @@
-{
-  "_instructions": "Add your trusted devices below as \"MAC_ADDRESS\": \"Device Name\". Delete this _instructions line, it's just a comment.",
-  "aa:bb:cc:dd:ee:ff": "Example - My Laptop"
-}

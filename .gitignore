@@ -1,0 +1,12 @@
+# Runtime data - regenerated automatically, not meant to be shared
+network.db
+server.log
+allowed_devices.json
+
+# Packaging artifacts
+*.zip
+
+# Python
+__pycache__/
+*.pyc
+.DS_Store
